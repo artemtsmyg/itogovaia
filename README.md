@@ -45,3 +45,7 @@ string[] AskArray() {
     Write("Введите значения через пробел: ");
     return ReadLine().Split(" ");
 }
+
+
+
+https://github.com/artemtsmyg/itogovaia.git
